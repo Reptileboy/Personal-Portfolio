@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="850" viewBox="0 0 1200 850" role="img" aria-labelledby="title desc">
+<title id="title">Kirklin Poss portfolio site wireframes</title><desc id="desc">Three page sketches for Home, Projects and Work, and About and Contact, with palette, typography, and mobile layout notes.</desc>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#172033} .label{font-size:16px;font-weight:bold}.note{font-size:14px}.box{fill:white;stroke:#64748b;stroke-width:1.5}.ghost{fill:#f1f5f9;stroke:#94a3b8;stroke-dasharray:5 4}</style>
+<rect width="1200" height="850" fill="#f8fafc"/>
+<text x="36" y="45" font-size="28" font-weight="bold">Personal portfolio · Site plan</text>
+<text x="36" y="73" class="note">Purpose: introduce Kirklin, showcase work, and provide background and contact details.</text>
+<text x="36" y="116" class="label">01 / HOME</text>
+<rect x="36" y="132" width="336" height="460" rx="6" class="box"/>
+<rect x="50" y="146" width="308" height="72" rx="4" class="box"/><text x="62" y="172" class="note">Header: name / portfolio</text>
+<text x="62" y="198" class="note">Home | Projects / Work | About / Contact</text>
+<text x="432" y="116" class="label">02 / PROJECTS / WORK</text>
+<rect x="432" y="132" width="336" height="460" rx="6" class="box"/>
+<rect x="446" y="146" width="308" height="72" rx="4" class="box"/><text x="458" y="172" class="note">Header: name / portfolio</text>
+<text x="458" y="198" class="note">Home | Projects / Work | About / Contact</text>
+<text x="828" y="116" class="label">03 / ABOUT / CONTACT</text>
+<rect x="828" y="132" width="336" height="460" rx="6" class="box"/>
+<rect x="842" y="146" width="308" height="72" rx="4" class="box"/><text x="854" y="172" class="note">Header: name / portfolio</text>
+<text x="854" y="198" class="note">Home | Projects / Work | About / Contact</text>
+<rect x="50" y="232" width="308" height="144" rx="4" class="box"/><text x="62" y="258" class="note">H1 Welcome to my portfolio</text>
+<text x="62" y="286" class="note">H2 Hello, I’m Kirklin</text>
+<text x="62" y="313" class="note">Major, interests, and goals</text>
+<rect x="62" y="330" width="174" height="32" rx="4" class="box"/><text x="74" y="356" class="note">Explore my work →</text>
+<rect x="50" y="390" width="308" height="128" rx="4" class="box"/><text x="62" y="416" class="note">H2 Featured work</text>
+<text x="62" y="448" class="note">H3 Project spotlight</text>
+<text x="62" y="479" class="note">Short summary + project link</text>
+<text x="446" y="253" class="label">H1 Projects and work</text>
+<text x="446" y="284" class="note">H2 Selected projects</text>
+<text x="446" y="310" class="note">Short introduction</text>
+<rect x="446" y="328" width="148" height="190" rx="4" class="box"/><text x="458" y="354" class="note">H3 Project one</text>
+<rect x="456" y="370" width="128" height="70" rx="4" class="ghost"/><text x="468" y="396" class="note">Image</text>
+<text x="456" y="468" class="note">Purpose / role</text>
+<text x="456" y="492" class="note">Tools / learning</text>
+<rect x="606" y="328" width="148" height="190" rx="4" class="box"/><text x="618" y="354" class="note">H3 Project two</text>
+<rect x="616" y="370" width="128" height="70" rx="4" class="ghost"/><text x="628" y="396" class="note">Image</text>
+<text x="616" y="468" class="note">Purpose / role</text>
+<text x="616" y="492" class="note">Tools / learning</text>
+<text x="842" y="253" class="label">H1 About me and contact</text>
+<rect x="842" y="274" width="308" height="140" rx="4" class="box"/><text x="854" y="300" class="note">H2 My background</text>
+<text x="854" y="328" class="note">Short biography and goals</text>
+<text x="854" y="357" class="note">H3 Skills and interests</text>
+<text x="854" y="386" class="note">List of skills / interests</text>
+<rect x="842" y="430" width="308" height="88" rx="4" class="box"/><text x="854" y="456" class="note">H2 Get in touch</text>
+<text x="854" y="484" class="note">Public contact information</text>
+<rect x="50" y="538" width="308" height="40" rx="4" class="box"/><text x="62" y="564" class="note">Footer: copyright / name</text>
+<rect x="446" y="538" width="308" height="40" rx="4" class="box"/><text x="458" y="564" class="note">Footer: copyright / name</text>
+<rect x="842" y="538" width="308" height="40" rx="4" class="box"/><text x="854" y="564" class="note">Footer: copyright / name</text>
+<text x="36" y="636" class="label">VISUAL DIRECTION</text>
+<text x="36" y="664" class="note">Palette: cool neutral background, white content areas, dark text, and blue links / buttons.</text>
+<rect x="36" y="684" width="26" height="26" fill="#F8FAFC" stroke="#94a3b8"/>
+<text x="73" y="703" class="note">Background #F8FAFC</text>
+<rect x="330" y="684" width="26" height="26" fill="#FFFFFF" stroke="#94a3b8"/>
+<text x="367" y="703" class="note">Surface #FFFFFF</text>
+<rect x="605" y="684" width="26" height="26" fill="#172033" stroke="#94a3b8"/>
+<text x="642" y="703" class="note">Text #172033</text>
+<rect x="870" y="684" width="26" height="26" fill="#1D4ED8" stroke="#94a3b8"/>
+<text x="907" y="703" class="note">Accent #1D4ED8</text>
+<text x="36" y="749" class="note">Fonts: Georgia for headings; Arial / Helvetica for body text and navigation. No external font downloads.</text>
+<text x="36" y="778" class="note">Mobile: stack project cards vertically; let navigation wrap; keep the same reading order.</text>
+<text x="36" y="807" class="note">Navigation: index.html ↔ projects.html ↔ about.html. Project spotlight links to projects.html#project-one.</text>
+</svg>
