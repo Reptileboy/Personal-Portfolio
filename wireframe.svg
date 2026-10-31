@@ -54,7 +54,7 @@
 <text x="642" y="703" class="note">Text #172033</text>
 <rect x="870" y="684" width="26" height="26" fill="#1D4ED8" stroke="#94a3b8"/>
 <text x="907" y="703" class="note">Accent #1D4ED8</text>
-<text x="36" y="749" class="note">Fonts: Georgia for headings; Arial / Helvetica for body text and navigation. No external font downloads.</text>
+<text x="36" y="749" class="note">Fonts: Google Fonts pairing: Lora for headings; Inter for body text and navigation.</text>
 <text x="36" y="778" class="note">Mobile: stack project cards vertically; let navigation wrap; keep the same reading order.</text>
 <text x="36" y="807" class="note">Navigation: index.html ↔ projects.html ↔ about.html. Project spotlight links to projects.html#project-one.</text>
 </svg>

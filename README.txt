@@ -12,8 +12,8 @@ wireframe.svg — Digital wireframe with color and font choices.
 
 DESIGN
 Background #F8FAFC; surfaces #FFFFFF; text #172033; accent #1D4ED8.
-Headings: Georgia, Times New Roman, serif.
-Body and navigation: Arial, Helvetica, sans-serif.
+Headings: Lora (Google Fonts), with Georgia and serif fallbacks.
+Body and navigation: Inter (Google Fonts), with Arial and sans-serif fallbacks.
 At small widths, project cards stack and navigation wraps.
 
 CUSTOMIZE
